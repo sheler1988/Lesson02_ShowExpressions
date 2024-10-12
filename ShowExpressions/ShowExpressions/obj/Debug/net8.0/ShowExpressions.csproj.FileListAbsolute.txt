@@ -1,0 +1,15 @@
+F:\MyProjects\Lesson02_ShowExpressions\ShowExpressions\ShowExpressions\bin\Debug\net8.0\ShowExpressions.exe
+F:\MyProjects\Lesson02_ShowExpressions\ShowExpressions\ShowExpressions\bin\Debug\net8.0\ShowExpressions.deps.json
+F:\MyProjects\Lesson02_ShowExpressions\ShowExpressions\ShowExpressions\bin\Debug\net8.0\ShowExpressions.runtimeconfig.json
+F:\MyProjects\Lesson02_ShowExpressions\ShowExpressions\ShowExpressions\bin\Debug\net8.0\ShowExpressions.dll
+F:\MyProjects\Lesson02_ShowExpressions\ShowExpressions\ShowExpressions\bin\Debug\net8.0\ShowExpressions.pdb
+F:\MyProjects\Lesson02_ShowExpressions\ShowExpressions\ShowExpressions\obj\Debug\net8.0\ShowExpressions.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyProjects\Lesson02_ShowExpressions\ShowExpressions\ShowExpressions\obj\Debug\net8.0\ShowExpressions.AssemblyInfoInputs.cache
+F:\MyProjects\Lesson02_ShowExpressions\ShowExpressions\ShowExpressions\obj\Debug\net8.0\ShowExpressions.AssemblyInfo.cs
+F:\MyProjects\Lesson02_ShowExpressions\ShowExpressions\ShowExpressions\obj\Debug\net8.0\ShowExpressions.csproj.CoreCompileInputs.cache
+F:\MyProjects\Lesson02_ShowExpressions\ShowExpressions\ShowExpressions\obj\Debug\net8.0\ShowExpressions.sourcelink.json
+F:\MyProjects\Lesson02_ShowExpressions\ShowExpressions\ShowExpressions\obj\Debug\net8.0\ShowExpressions.dll
+F:\MyProjects\Lesson02_ShowExpressions\ShowExpressions\ShowExpressions\obj\Debug\net8.0\refint\ShowExpressions.dll
+F:\MyProjects\Lesson02_ShowExpressions\ShowExpressions\ShowExpressions\obj\Debug\net8.0\ShowExpressions.pdb
+F:\MyProjects\Lesson02_ShowExpressions\ShowExpressions\ShowExpressions\obj\Debug\net8.0\ShowExpressions.genruntimeconfig.cache
+F:\MyProjects\Lesson02_ShowExpressions\ShowExpressions\ShowExpressions\obj\Debug\net8.0\ref\ShowExpressions.dll
